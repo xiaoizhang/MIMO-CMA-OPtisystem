@@ -2,13 +2,13 @@
 
 **基于偏振模色散的CMA技术**
 
-**$2^2+5\_2=10$**
+**$$ 2^2+5\_2=10$$**
 
-$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
 
-\alpha, \beta, ... \omega
+$$\alpha, \beta, ... \omega$$
 
-\Bigl{ \bigl\vert \(\left\(\frac{-b \pm \sqrt{b^2 - 4ac}}{2a}\right\)\) \bigr} \Bigr\]
+$$\Bigl{ \bigl\vert (\left(\frac{-b \pm \sqrt{b^2 - 4ac}}{2a}\right)) \bigr} \Bigr] $$
 
 $$
 \pi \alpha
