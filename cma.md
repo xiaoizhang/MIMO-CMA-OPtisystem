@@ -8,8 +8,6 @@ $$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
 
 $$\alpha, \beta, ... \omega$$
 
-$$\Bigl{ \bigl\vert (\left(\frac{-b \pm \sqrt{b^2 - 4ac}}{2a}\right)) \bigr} \Bigr] $$
-
 $$
 \pi \alpha
 \sqrt{x+\sqrt(x^2+y^2)}
