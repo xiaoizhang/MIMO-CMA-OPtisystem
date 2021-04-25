@@ -4,45 +4,9 @@
 
 **加上滤波器之后: 通过波形确实看到串扰减小了，但是得到的码型仍然不行，说明滤波器可能把有用的波形滤除了。**
 
-**when a!=b there are two solution to  \(** $$ax^2+bx+c=0$$ **\)and then**  濮阳
+**名词介绍 ：WSS：动态可重构光加/减复用，支持任意端口波长任意上下行（可编程控制），可以进行功率平衡和滤波。**
 
-\*\*\*\*$$ax^2+bx+c=0$$ ****
+**关于纸质书上的串扰介绍**
 
-```text
-ab=b^2+b_2+s^2
-```
-
-$$
-a b= b^2+b_2+s^2
-$$
-
-```text
-It has *strong* significance to me.
-I _cannot_ stress this enough.
-Type `OK` to accept.
-That *_really_* has to go.
-Can't pick one? Let's use them `*_all_*`.
-```
-
-It has _strong_ significance to me.   
-I _cannot_ stress this enough.  
- Type `OK` to accept.   
-That _really_ has to go.  
- Can't pick one?   
-Let's use them _all_.
-
-```text
-**C**reate, **R**ead, **U**pdate, and **D**elete (CRUD)
-
-That's fan__freakin__tastic!
-
-Don't pass generic ``Object``s to methods that accept ``String``s!
-
-It was Beatle**__mania__**!
-```
-
-**C**reate, **R**ead, **U**pdate, and **D**elete \(CRUD\)   
-That's fan**freakin**tastic!   
-Don't pass generic `Object`s to methods that accept `String`s!   
-It was Beatle**mania**!
+第四章：高谱效率超耐奎斯特波分复用系统研究：信道间隔不变（50G甚至25G）而传输速率越来越高（100Gbps），挑战越来越高。QDB的谱效率大于4bit/s/hz。进度：常规WDM信号（符号带宽&lt;信道间距），奈奎斯特WDM（符号带宽=信道间距），超奈奎斯特WDM系统（符号带宽&gt;信道间距——波特率大于信道间隔，引入可控的信道间串扰（ISI）和符号间串扰（ISI\)，理论上就有最高的谱效率，但是需要额外的算法来均衡ISI。）。超奈奎斯特波分复用技术需要：多模均衡算法抑制噪声和信道间串扰，多符号均衡判决来抑制符号间干扰。针对强频谱压缩的信号，如果采用常规的信道均衡算法（CMA，DD-LMAS等）会引起高频部分的加强。一般在自适应均衡后加一个后置滤波器实现噪声和串扰的压缩，最后通过多符号均衡检测（如最大似然序列估计MLSE）来均衡符号间干扰。
 
