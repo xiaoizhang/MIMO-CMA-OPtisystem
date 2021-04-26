@@ -4,45 +4,15 @@
 
 **加上滤波器之后: 通过波形确实看到串扰减小了，但是得到的码型仍然不行，说明滤波器可能把有用的波形滤除了。**
 
-**when a!=b there are two solution to  \(** $$ax^2+bx+c=0$$ **\)and then**  濮阳
+## **名词介绍**
 
-\*\*\*\*$$ax^2+bx+c=0$$ ****
+**WSS：动态可重构光加/减复用，支持任意端口波长任意上下行（可编程控制），可以进行功率平衡和滤波。**
 
-```text
-ab=b^2+b_2+s^2
-```
+**4×512Gbit/s四载波信号：共有四个信道，每个信道512Gbit/s，宽度100G（书上的是，这个可改）；【每个信道中采用间隔为25Ghz的子载波，每个子载波携带128Gbit/s的数据。】**
 
-$$
-a b= b^2+b_2+s^2
-$$
+**AWG（阵列波导光栅）：波分复用系统的首选，它可以实现波长分配即解复用功能和复用功能。**
 
-```text
-It has *strong* significance to me.
-I _cannot_ stress this enough.
-Type `OK` to accept.
-That *_really_* has to go.
-Can't pick one? Let's use them `*_all_*`.
-```
+\*\*\*\*
 
-It has _strong_ significance to me.   
-I _cannot_ stress this enough.  
- Type `OK` to accept.   
-That _really_ has to go.  
- Can't pick one?   
-Let's use them _all_.
-
-```text
-**C**reate, **R**ead, **U**pdate, and **D**elete (CRUD)
-
-That's fan__freakin__tastic!
-
-Don't pass generic ``Object``s to methods that accept ``String``s!
-
-It was Beatle**__mania__**!
-```
-
-**C**reate, **R**ead, **U**pdate, and **D**elete \(CRUD\)   
-That's fan**freakin**tastic!   
-Don't pass generic `Object`s to methods that accept `String`s!   
-It was Beatle**mania**!
+\*\*\*\*
 
