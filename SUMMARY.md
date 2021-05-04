@@ -3,5 +3,6 @@
 * [MIMO](README.md)
 * [OPtisystem](optisystem.md)
 * [CMA](cma.md)
-* [子载波提取](zi-zai-bo-ti-qu.md)
+* [多载波技术](zi-zai-bo-ti-qu.md)
+* [子载波提取](zi-zai-bo-ti-qu-1.md)
 
