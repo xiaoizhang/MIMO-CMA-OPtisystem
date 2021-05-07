@@ -22,13 +22,15 @@
 
 **光纤延迟线（Optical fiber delay line）：电信号转化为光信号，进入光纤中，又转换为了电信号。在光纤中这段时间起到了延迟作用。**
 
+**Pol-Mux:偏振复用**
+
 ### **论文：相干光传输的频率分集MIMO检测**
 
 **该技术成功实现了分离10G波特率的双偏振QPSK信号（每信号40Gbps），间隔为6GHZ。**
 
 **什么是频率分集MIMO（FD-MIMO）？空间分集MIMO百度有说明，它是部署在无线通信中以增加传输系统容量的。当前奈奎斯特整形技术和其他技术都在被研究，键控信号的频谱重叠部分也被成功恢复，并且最小均方也可消除符号间串扰，但是对间隔小于波特率的信号仍然有挑战性。此技术对重叠信号分离是可行的。**
 
-**公式：假设传输两个信号**$$X_1$$和$$X_2$$两者载波间隔为2$$f_0$$,则接收信号Y为$$Y=aX_1(f-f_0)+bX_2(f+f_0)$$我们希望能够通过带通滤波器F来分开$$X_1$$和$$X_2$$如下：\(将Y带入\)$$ \begin{pmatrix} F(f-f_0)Y \\ F(f+f_0)Y \end {pmatrix}$$=$$ \begin{pmatrix} aF&bF(f-2f_0) \\ aF(f+2f_0) &bF \end {pmatrix}$$$$\begin {pmatrix} X_1 \\X_2 \end {pmatrix}$$=H$$\begin {pmatrix} X_1 \\X_2 \end {pmatrix}$$如果我们能找到矩阵H，那么传输的信号$$X_1$$和$$X_2$$就可以这样得到$$\begin {pmatrix} X_1 \\ X_2 \end {pmatrix}$$=$$H^{-1}$$$$ \begin{pmatrix} F(f-f_0)Y \\ F(f+f_0)Y \end {pmatrix}$$。类似于空间分集MIMO，矩阵H的多样决定了传输数据的最大量。很明显极端情况下，（即2信号完全重叠时H矩阵有0列，因此无法取逆）。**自适应均衡公式**：具有极化复用的两路信号公式。正两路交极化信号经过滤波后为$$y_h$$和$$y_v$$,$$\overrightarrow{y_1}=\overrightarrow{y_h}e^{-j2\pi f_0 \overrightarrow{t}}$$
+**公式：假设传输两个信号**$$X_1$$和$$X_2$$两者载波间隔为2$$f_0$$,则接收信号Y为$$Y=aX_1(f-f_0)+bX_2(f+f_0)$$我们希望能够通过带通滤波器F来分开$$X_1$$和$$X_2$$如下：\(将Y带入\)$$ \begin{pmatrix} F(f-f_0)Y \\ F(f+f_0)Y \end {pmatrix}$$=$$ \begin{pmatrix} aF&bF(f-2f_0) \\ aF(f+2f_0) &bF \end {pmatrix}$$$$\begin {pmatrix} X_1 \\X_2 \end {pmatrix}$$=H$$\begin {pmatrix} X_1 \\X_2 \end {pmatrix}$$如果我们能找到矩阵H，那么传输的信号$$X_1$$和$$X_2$$就可以这样得到$$\begin {pmatrix} X_1 \\ X_2 \end {pmatrix}$$=$$H^{-1}$$$$ \begin{pmatrix} F(f-f_0)Y \\ F(f+f_0)Y \end {pmatrix}$$。类似于空间分集MIMO，矩阵H的多样决定了传输数据的最大量。很明显极端情况下，（即2信号完全重叠时H矩阵有0列，因此无法取逆）。**自适应均衡公式**：具有极化复用的两路信号公式（两路极化而已，载波一体了）。正两路交极化信号经过滤波后为$$y_h$$和$$y_v$$,$$\overrightarrow{y_1}=\overrightarrow{y_h}e^{-j2\pi f_0 \overrightarrow{t}}$$
 
 $$\overrightarrow{y_2}=\overrightarrow{y_v}e^{-j2\pi f_0 \overrightarrow{t}}$$
 
@@ -38,7 +40,7 @@ $$\overrightarrow{y_4}=\overrightarrow{y_v}e^{+j2\pi f_0 \overrightarrow{t}}$$.
 
 $$\begin {pmatrix} x_1 \\x_2 \\ x_3 \\x_4 \end {pmatrix}$$=$$ \begin {pmatrix} \overrightarrow{h_{11}} &\overrightarrow{h_{12}}&\overrightarrow{h_{13}} & \overrightarrow{h_{14}} \\ \overrightarrow{h_{21}} &\overrightarrow{h_{22}}&\overrightarrow{h_{23}} & \overrightarrow{h_{24}} \\  \overrightarrow{h_{31}} &\overrightarrow{h_{32}}&\overrightarrow{h_{33}} & \overrightarrow{h_{34}} \\  \overrightarrow{h_{41}} &\overrightarrow{h_{42}}&\overrightarrow{h_{43}} & \overrightarrow{h_{44}}   \end {pmatrix}$$$$\begin{pmatrix} \overrightarrow{y_1} \\  \overrightarrow{y_2} \\  \overrightarrow{y_3} \\  \overrightarrow{y_4}  \end {pmatrix}$$=$$\overrightarrow H$$$$\begin{pmatrix} \overrightarrow{y_1}  \\\overrightarrow{y_2}  \\\overrightarrow{y_3}  \\\overrightarrow{y_4}\\ \end {pmatrix}$$,向量符号指的是分组为多抽头向量。
 
-先保偏光纤耦合器对两偏振耦合PMC——再PBS偏振复用———接收端：先PBC分偏振——再解偏PMC。
+在两个载波分偏振之前先将其耦合器起来，再利用光纤延迟线将两者的极化之间去相关（我认为这样保证了两个载波同一个极化方向），再对俩载波分偏振。这样就类似于互不干扰的两个偏振方向。
 
 \*\*\*\*
 
