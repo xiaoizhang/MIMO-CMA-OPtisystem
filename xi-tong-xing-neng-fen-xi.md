@@ -4,7 +4,7 @@
 
 EVM：Error Vector Magnitude-误差向量幅度。误差向量是一个给定时刻理想无误差基准信号与实际发射信号的向量差，能全面衡量调制信号的幅度误差和相位误差。EVM具体表示发射机对信号进行解调时产生的IQ分量与理想分量的接近程度，是考量调制信号质量的一种标准。EVM定义为误差矢量信号平均功率的均方根值与理想信号平均功率的均方根值之比。EVM越小信号质量越好。
 
-EVM-Analysis函数：先进行判断哪个点属于哪个星座点，进行记录。然后计算EVM：$$\frac{\sum \sqrt(|Y-X|^2)}{L}$$其中：Y为判断后得星座点，X为判断前得星座点，L为X和Y的长度。计算SNR：$$\frac{1}{EVM^2}$$;误码率BER可通过EVM来计算：$$\left( \frac{1-\frac{1}{L}}{log_2L} \right) *erfc \sqrt(\frac{3*log_2L}{(L^2-1)*EVM^2})$$.Q因子和SNR求得数据一样。
+EVM-Analysis函数：先进行判断哪个点属于哪个星座点，进行记录。然后计算EVM：$$\frac{\sum \sqrt(|Y-X|^2)}{L}$$其中：Y为判断后得星座点，X为判断前得星座点，L为X和Y的长度。计算SNR：$$\frac{1}{EVM^2}$$;误码率BER可通过EVM来计算：$$\left( \frac{1-\frac{1}{L}}{log_2L} \right) *erfc \sqrt(\frac{3*log_2L}{(L^2-1)*EVM^2})$$.Q因子和SNR求得数据一样。注意：这里我们的X是按照1+j的标准来的，而函数Y是按照0.7+0.7j来的，实际求EVM时会有偏大的计算差。
 
 constref函数：返回参数化的常规参考星座图，即4QPSK为±1±1j四个向量。
 
