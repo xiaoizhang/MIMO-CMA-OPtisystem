@@ -15,7 +15,7 @@ SNR：信噪比：$$SNR=\frac{P_s}{N}=\frac{E_SR_S}{N_0R_S}=E_SN_0$$，$$P_S$$�
 
 OSNR：光信噪比：$$OSNR_{sp}=\frac{P_s}{2N_{ase}B_{ref}}=\frac{R_sE_s}{2N_{0}B_{ref}}=\frac{R_s}{2B_{ref}}SNR$$
 
-EVM、SNR和Q的关系：CSDN：$$EVM_{RMS}=\sqrt \frac{1}{SNR}$$,$$BER=\frac{1}{2}*erfc  \frac {Q}{\sqrt{2}}$$,EVM计算公式：$$EVM_{RMS}=\sqrt {\frac{\frac{1}{N}\sum|S_{re}-S_{ideal}|^2}{\frac{1}{M}\sum{|S_m|^2}}}$$,$$S_{re}$$$$S_{ideal}$$分别为接收信号和理想信号，M为调制阶数，N为信号数量，$$S_m$$为理想星座图点。BER和SNR的关系如图：\(**函数里用的公式是MASK的**\)
+EVM、SNR，BER和Q的关系：CSDN：$$EVM_{RMS}=\sqrt \frac{1}{SNR}$$,$$BER=\frac{1}{2}*erfc  \frac {Q}{\sqrt{2}}$$,EVM计算公式：$$EVM_{RMS}=\sqrt {\frac{\frac{1}{N}\sum|S_{re}-S_{ideal}|^2}{\frac{1}{M}\sum{|S_m|^2}}}$$,$$S_{re}$$$$S_{ideal}$$分别为接收信号和理想信号，M为调制阶数，N为信号数量，$$S_m$$为理想星座图点。BER和SNR的关系如图：\(**函数里用的公式是MASK的**\)
 
 ![&#x5E38;&#x89C1;&#x8C03;&#x5236;&#x683C;&#x5F0F;&#x7684;BER&#x548C;SNR&#x5173;&#x7CFB;](.gitbook/assets/ber.jpg)
 
