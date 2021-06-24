@@ -8,7 +8,7 @@
 
 ### Advantage of Optical Fast OFDM Over OFDM in Residual Frequency Offset Compensation
 
-基于上文中的FOFDM调制技术，该文章分析了FOFDM中由残余频偏（RFO）引起的载波间干扰。
+基于上文中的FOFDM调制技术，该文章分析了FOFDM中由残余频偏（RFO）引起的载波间干扰。比较了补偿RFO的多抽头均衡器的性能。
 
 {% embed url="https://blog.csdn.net/qq\_40090859/article/details/103083595" caption="多载波和OFDM" %}
 
