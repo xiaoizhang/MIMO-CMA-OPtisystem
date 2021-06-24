@@ -10,6 +10,18 @@
 
 基于上文中的FOFDM调制技术，该文章分析了FOFDM中由残余频偏（RFO）引起的载波间干扰。比较了补偿RFO的多抽头均衡器的性能。
 
+### 20 Tbit/s Transmission Over 6860 km With Sub-Nyquist Channel Spacing
+
+发射机带宽受限引起的调制记忆和多符号检测，可以降低欠奈奎斯特信道间隔系统的符号间干扰。本文章传输的是100G带宽受限的偏振分复用归零QPSK信号，频谱利用率为400%。————带宽受限（由信号的主动滤波产生，会导致严重的符号间干扰和复杂的信号星座，这可以解释为调制格式中的符号相关或记忆）的偏振复用RE-QPSK传输格式。**本文开发了一种算法（包括最大似然估计MLSE），利用符号相关性，减轻与严格预滤波相关的线性码间干扰损失。**
+
+### 1.03-Exabit/s-km Super-Nyquist-WDM Transmission over 7,326-km Seven-Core Fiber
+
+本文主要实现的是多芯光纤和超奈奎斯特波分复用相结合达到的记录，只看超奈奎斯特有用的部分：超密集WDM技术（又称为超奈奎斯特WDM）的频率间隔小于波特率。30Gbaud的波特率的载波间隔为25Ghz（有重叠，但是使用QDB能抑制）。对于超奈奎斯特WDM传输，**光信号的带宽必须限制在波特率之下**。还是使用的双二进制脉冲整形，信号的功率谱带宽为B/2（B为波特率），通过复用该类型信号，可以有效抑制载波重叠分量——可使用DAC直接生产双二进制DP-QPSK信号。
+
+### Experimental investigation on the performance of closely spaced multi-carrier PDM-QPSK with digital coherent detection
+
+
+
 {% embed url="https://blog.csdn.net/qq\_40090859/article/details/103083595" caption="多载波和OFDM" %}
 
 {% embed url="https://blog.csdn.net/dear\_father/article/details/95531134?ops\_request\_misc=%257B%2522request%255Fid%2522%253A%2522162450075616780366550342%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request\_id=162450075616780366550342&biz\_id=0&utm\_medium=distribute.pc\_search\_result.none-task-blog-2~all~sobaiduend~default-3-95531134.first\_rank\_v2\_pc\_rank\_v29&utm\_term=%E5%A4%9A%E8%BD%BD%E6%B3%A2&spm=1018.2226.3001.4187" caption="5G的三个相关调制技术" %}
