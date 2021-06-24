@@ -4,7 +4,11 @@
 
 ### A Novel Optical Fast OFDM with Reduced Channel Spacing Equal to Half of the Symbol Rate Per Carrier
 
-传统的正交频分复用OFDM技术对符号周期为T的每个符号使用正交函数$$e^{j*2\pi* kt/T}$$,T是符号周期，K是子信道序号。这种情况下的最小信道间隔是载波的符号速率（图片上来看是子载波一半的带宽）。
+传统的正交频分复用OFDM技术对符号周期为T的每个符号使用正交函数$$e^{j*2\pi* kt/T}$$,T是符号周期，K是子信道序号。这种情况下的最小信道间隔是载波的符号速率（图片上来看是子载波一半的带宽）。**然而**：如果子载波的相位可以被控制（使用正交函数$$cos(2\pi×kt/(2T))$$），最小频率间隔可以减小到1/\(2T\),相位控制的目的是保证子载波的正交性。——**光正交频分复用**。
+
+### Advantage of Optical Fast OFDM Over OFDM in Residual Frequency Offset Compensation
+
+基于上文中的FOFDM调制技术，该文章分析了FOFDM中由残余频偏（RFO）引起的载波间干扰。
 
 {% embed url="https://blog.csdn.net/qq\_40090859/article/details/103083595" caption="多载波和OFDM" %}
 
