@@ -1,5 +1,15 @@
 # 多载波技术
 
+### 多载波和OFDM——网站
+
+{% embed url="https://blog.csdn.net/qq\_40090859/article/details/103083595" %}
+
+### 5G的三个相关调制技术
+
+{% embed url="https://blog.csdn.net/dear\_father/article/details/95531134?ops\_request\_misc=%257B%2522request%255Fid%2522%253A%2522162450075616780366550342%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request\_id=162450075616780366550342&biz\_id=0&utm\_medium=distribute.pc\_search\_result.none-task-blog-2~all~sobaiduend~default-3-95531134.first\_rank\_v2\_pc\_rank\_v29&utm\_term=%E5%A4%9A%E8%BD%BD%E6%B3%A2&spm=1018.2226.3001.4187" %}
+
+
+
 **关于DQPSK的论文介绍**:
 
 目前，业界已达成共识，将QPSK或DQPSK作为100G传输的调制格式，由于其恒包络特特点，可以有效降低DWDM传输中的交叉相位调制XPM效应，同时能够有效的提升频谱利用率。
