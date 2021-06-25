@@ -20,7 +20,11 @@
 
 ### Experimental investigation on the performance of closely spaced multi-carrier PDM-QPSK with digital coherent detection
 
+两个PDM-QPSK子载波，载波间隔为波特率大小。该情况下，需要达到过采样系统为4和基于恒模算法CMA的具有1/4符号间隔抽头的数字均衡器一起。当载波符号对齐时，性能最佳，具有适当抗混叠滤波的大（如4倍）过采样有助于最小化相干串扰引起的损伤，并且使用适当的电子预滤波器进行载波分离是有益的。
 
+### Achievement of Subchannel Frequency Spacing Less Than Symbol Rate and Improvement of Dispersion Tolerance in Optical OFDM Transmission
+
+新的光正交频分复用传输（又叫光密集正交频分复用DOFDM），子信道的频率间隔小于符号率。在光正交频分复用传输中，子信道之间的频率正交性允许频率重叠，并且它实现了更窄的信号带宽和高色散容限。通过多采样或时间间隔为1/N▲f的MZI来实现对DOFDM的复用和解复用。该实验可实现80%波特率的子信道频率间隔。
 
 {% embed url="https://blog.csdn.net/qq\_40090859/article/details/103083595" caption="多载波和OFDM" %}
 
