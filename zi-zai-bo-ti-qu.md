@@ -30,6 +30,10 @@
 
 一种新的正交频分复用方案，子信道频率间隔为符号速率的80%。光正交复用频分复用系统可以窄化信号带宽。（光正交频分复用就是密集正交频分复用DOFDM）本文通过缩短时间窗来提取数据符号，即使频率间隔不等于符号率，频率正交也是满足的。
 
+### 1.2 Tbit/s orthogonal PDM-RZ-QPSK DWDM signal transmission over 1040 km SMF-28
+
+正交密集波分复用信号。每个信号大约25Gbaud的QPSK信号，载波间隔为25Ghz\(100%\)。1.2Tbps下实现传输1040KM.2010年之前最远。
+
 {% embed url="https://blog.csdn.net/qq\_40090859/article/details/103083595" caption="多载波和OFDM" %}
 
 {% embed url="https://blog.csdn.net/dear\_father/article/details/95531134?ops\_request\_misc=%257B%2522request%255Fid%2522%253A%2522162450075616780366550342%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request\_id=162450075616780366550342&biz\_id=0&utm\_medium=distribute.pc\_search\_result.none-task-blog-2~all~sobaiduend~default-3-95531134.first\_rank\_v2\_pc\_rank\_v29&utm\_term=%E5%A4%9A%E8%BD%BD%E6%B3%A2&spm=1018.2226.3001.4187" caption="5G的三个相关调制技术" %}
