@@ -16,7 +16,7 @@
 
 ### 1.03-Exabit/s-km Super-Nyquist-WDM Transmission over 7,326-km Seven-Core Fiber
 
-本文主要实现的是多芯光纤和超奈奎斯特波分复用相结合达到的记录，只看超奈奎斯特有用的部分：超密集WDM技术（又称为超奈奎斯特WDM）的频率间隔小于波特率。30Gbaud的波特率的载波间隔为25Ghz（有重叠，但是使用QDB能抑制）。对于超奈奎斯特WDM传输，**光信号的带宽必须限制在波特率之下**。还是使用的双二进制脉冲整形，信号的功率谱带宽为B/2（B为波特率），通过复用该类型信号，可以有效抑制载波重叠分量——可使用DAC直接生产双二进制DP-QPSK信号。
+本文主要实现的是多芯光纤和超奈奎斯特波分复用相结合达到的记录，只看超奈奎斯特有用的部分：超密集WDM技术（又称为超奈奎斯特WDM）的频率间隔小于波特率。30Gbaud的波特率的载波间隔为25Ghz（83.3%）（有重叠，但是使用QDB能抑制）。对于超奈奎斯特WDM传输，**光信号的带宽必须限制在波特率之下**。还是使用的双二进制脉冲整形，信号的功率谱带宽为B/2（B为波特率），通过复用该类型信号，可以有效抑制载波重叠分量——可使用DAC直接生产双二进制DP-QPSK信号。
 
 ### Experimental investigation on the performance of closely spaced multi-carrier PDM-QPSK with digital coherent detection
 
