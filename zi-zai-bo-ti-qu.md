@@ -26,6 +26,10 @@
 
 新的光正交频分复用传输（又叫光密集正交频分复用DOFDM），子信道的频率间隔小于符号率。在光正交频分复用传输中，子信道之间的频率正交性允许频率重叠，并且它实现了更窄的信号带宽和高色散容限。通过多采样或时间间隔为1/N▲f的MZI来实现对DOFDM的复用和解复用。该实验可实现80%波特率的子信道频率间隔。
 
+### Experiment on Optical OFDM Transmission with Frequency Spacing of Subchannels at 80% of Symbol Rate
+
+一种新的正交频分复用方案，子信道频率间隔为符号速率的80%。光正交复用频分复用系统可以窄化信号带宽。（光正交频分复用就是密集正交频分复用DOFDM）本文通过缩短时间窗来提取数据符号，即使频率间隔不等于符号率，频率正交也是满足的。
+
 {% embed url="https://blog.csdn.net/qq\_40090859/article/details/103083595" caption="多载波和OFDM" %}
 
 {% embed url="https://blog.csdn.net/dear\_father/article/details/95531134?ops\_request\_misc=%257B%2522request%255Fid%2522%253A%2522162450075616780366550342%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request\_id=162450075616780366550342&biz\_id=0&utm\_medium=distribute.pc\_search\_result.none-task-blog-2~all~sobaiduend~default-3-95531134.first\_rank\_v2\_pc\_rank\_v29&utm\_term=%E5%A4%9A%E8%BD%BD%E6%B3%A2&spm=1018.2226.3001.4187" caption="5G的三个相关调制技术" %}
