@@ -1,6 +1,8 @@
-# 多载波技术
+---
+description: 从SCI和IEEE上找的多载波技术相关文献
+---
 
-## 多载波技术论文
+# 相关文献
 
 ### A Novel Optical Fast OFDM with Reduced Channel Spacing Equal to Half of the Symbol Rate Per Carrier
 
@@ -33,28 +35,4 @@
 ### 1.2 Tbit/s orthogonal PDM-RZ-QPSK DWDM signal transmission over 1040 km SMF-28
 
 正交密集波分复用信号。每个信号大约25Gbaud的QPSK信号，载波间隔为25Ghz\(100%\)。1.2Tbps下实现传输1040KM.2010年之前最远。
-
-{% embed url="https://blog.csdn.net/qq\_40090859/article/details/103083595" caption="多载波和OFDM" %}
-
-{% embed url="https://blog.csdn.net/dear\_father/article/details/95531134?ops\_request\_misc=%257B%2522request%255Fid%2522%253A%2522162450075616780366550342%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request\_id=162450075616780366550342&biz\_id=0&utm\_medium=distribute.pc\_search\_result.none-task-blog-2~all~sobaiduend~default-3-95531134.first\_rank\_v2\_pc\_rank\_v29&utm\_term=%E5%A4%9A%E8%BD%BD%E6%B3%A2&spm=1018.2226.3001.4187" caption="5G的三个相关调制技术" %}
-
-
-
-**关于DQPSK的论文介绍**:
-
-目前，业界已达成共识，将QPSK或DQPSK作为100G传输的调制格式，由于其恒包络特特点，可以有效降低DWDM传输中的交叉相位调制XPM效应，同时能够有效的提升频谱利用率。
-
-## 多载波技术调研：
-
-DWDM系统：指复用间隔比WDM的信道间隔小，复用波道数更多。复用和解复用与调制格式无关。
-
-### Optical fast OFDM系统的调研
-
-**传统OFDM**：1、将串行的高速数据转换为多个并行的低速数据，称之为子载波，OFDM可以通过再发送端加入循环前缀CP来解决色度色散CD和偏振模色散PMD引起的符号间干扰（只要CP长度大于色散引起的群速度时延即可完全将信号匹配回恢复出来）。2、频谱允许重叠且子载波正交。3、各子载波间的调制和解调可通过反快速傅里叶变换（IFFT）和快速傅里叶变换（FFT）来实现。接收端采用匹配滤波器或者相关器，当子载波数量多的时候采用IDFT和DFT可加快进度。
-
-**快速OFDM**：1、前言：光正交频分复用技术作为一种多载波技术，与波分复用方式相比，有更高的频谱效率、良好的抵抗色散和非线性损伤能力等特点。但是传统的光OFDM技术已经比较成熟，但是对原理进行修改，它的子载波间距还能进一步压缩，提高传输效率。**这种能将子载波间距进一步缩小的技术叫做快速OFDM**。2、介绍：一般的OFDM系统都是通过离散傅里叶变换（DFT）来实现的，先阶段研究的快速OFDM系统主要集中在离散余弦变换（DCT）上来实现。
-
-**全光OFDM：将电域FFT和IFFT过程搬移到光上来处理。**
-
-
 
