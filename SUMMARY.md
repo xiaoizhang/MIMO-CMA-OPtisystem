@@ -6,7 +6,7 @@
 * [多载波技术](zi-zai-bo-ti-qu/README.md)
   * [相关文献](zi-zai-bo-ti-qu/xiang-guan-wen-xian.md)
   * [参考文献](zi-zai-bo-ti-qu/can-kao-wen-xian/README.md)
-    * [34——MIMO对子载波的补偿](zi-zai-bo-ti-qu/can-kao-wen-xian/untitled.md)
+    * [34](zi-zai-bo-ti-qu/can-kao-wen-xian/untitled.md)
     * [Untitled](zi-zai-bo-ti-qu/can-kao-wen-xian/untitled-3.md)
     * [Untitled](zi-zai-bo-ti-qu/can-kao-wen-xian/untitled-2.md)
     * [Untitled](zi-zai-bo-ti-qu/can-kao-wen-xian/untitled-1.md)
