@@ -20,3 +20,11 @@
 
 奈奎斯特整型：发射序列由滚降因子为0.1%的根生余弦滤波器整形——————该技术支持奈奎斯特整形信号的传输。
 
+## Frequency Diversity MIMO Detection in Polarization Multiplexed Coherent Optical Transmission
+
+使用FD-MIMO技术分离具有小于波特率间隔的偏振复用信号。
+
+\[4\]-\[6\]：奈奎斯特脉冲整形和其他技术用于频谱高效传输。【5】：基于MIMO处理的DSP干扰消除。【6】：频谱重叠技术成功应用于OOK信号。
+
+本文承接第一文，对间距为6G的10GBaudPDMQPSK信号的检测和分离。
+
