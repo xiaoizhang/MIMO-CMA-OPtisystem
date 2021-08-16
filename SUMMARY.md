@@ -8,7 +8,7 @@
 
 ## 多载波技术——all
 
-* [多载波技术——文献](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/README.md)
+* [多子载波技术——文献](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/README.md)
   * [相关文献](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian.md)
   * [参考文献](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/can-kao-wen-xian/README.md)
     * [33](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/can-kao-wen-xian/untitled-3/README.md)
