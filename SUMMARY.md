@@ -24,7 +24,7 @@
     * [CMA](duo-zai-bo-ji-shu-all/duo-zi-zai-bo-ji-shu-ji-shu/duo-zi-zai-bo-mimo-bu-chang-chuan-rao/cma.md)
   * [奈奎斯特](duo-zai-bo-ji-shu-all/duo-zi-zai-bo-ji-shu-ji-shu/nai-kui-si-te/README.md)
     * [FTN](duo-zai-bo-ji-shu-all/duo-zi-zai-bo-ji-shu-ji-shu/nai-kui-si-te/ftn.md)
-  * [WDM](duo-zai-bo-ji-shu-all/duo-zi-zai-bo-ji-shu-ji-shu/wdm/README.md)
+  * [WDM（子类）](duo-zai-bo-ji-shu-all/duo-zi-zai-bo-ji-shu-ji-shu/wdm/README.md)
     * [UDWDM](duo-zai-bo-ji-shu-all/duo-zi-zai-bo-ji-shu-ji-shu/wdm/chao-mi-ji-bo-fen-fu-yong.md)
   * [OFDM](duo-zai-bo-ji-shu-all/duo-zi-zai-bo-ji-shu-ji-shu/ofdm.md)
 
