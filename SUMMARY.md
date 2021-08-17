@@ -19,7 +19,8 @@
     * [34](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/can-kao-wen-xian/untitled.md)
     * [26-28](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/can-kao-wen-xian/untitled-2.md)
     * [21-23](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/can-kao-wen-xian/untitled-1.md)
-* [WDM](duo-zai-bo-ji-shu-all/wdm.md)
+* [WDM](duo-zai-bo-ji-shu-all/wdm/README.md)
+  * [超密集波分复用](duo-zai-bo-ji-shu-all/wdm/chao-mi-ji-bo-fen-fu-yong.md)
+  * [OFDM](duo-zai-bo-ji-shu-all/wdm/ofdm.md)
 * [奈奎斯特](duo-zai-bo-ji-shu-all/nai-kui-si-te.md)
-* [OFDM](duo-zai-bo-ji-shu-all/ofdm.md)
 
