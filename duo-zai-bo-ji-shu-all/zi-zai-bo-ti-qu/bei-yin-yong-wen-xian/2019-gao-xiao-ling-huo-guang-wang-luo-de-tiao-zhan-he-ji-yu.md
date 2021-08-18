@@ -14,7 +14,7 @@ description: 【84】—All-Optical_Signal_Processing_Techniques_for_Flexible_Ne
 
 ![&#x5149;&#x4FE1;&#x53F7;&#x5904;&#x7406;&#x7684;&#x975E;&#x7EBF;&#x6027;&#x53C2;&#x6570;&#x548C;&#x5149;&#x6CE2;&#x53C2;&#x6570;](../../../.gitbook/assets/image%20%287%29.png)
 
-![](../../../.gitbook/assets/image%20%285%29.png)
+![&#x91CD;&#x53E0;&#x4FE1;&#x9053;&#x7CFB;&#x7EDF;&#x7684;&#x5149;ICI&#x7F13;&#x89E3;&#x65B9;&#x6848;&#x7684;&#x6982;&#x5FF5;&#x56FE;](../../../.gitbook/assets/image%20%288%29.png)
 
-重叠i信道系统的光ICI缓解方案的概念图及不同信道间隔的重叠QPSK的有无ICI减轻的信号星座图比较
+![&#x4E0D;&#x540C;&#x4FE1;&#x9053;&#x95F4;&#x9694;&#x7684;&#x91CD;&#x53E0;QPSK&#x7684;&#x6709;&#x65E0;ICI&#x51CF;&#x8F7B;&#x7684;&#x4FE1;&#x53F7;&#x661F;&#x5EA7;&#x56FE;&#x6BD4;&#x8F83;](../../../.gitbook/assets/image%20%289%29.png)
 
