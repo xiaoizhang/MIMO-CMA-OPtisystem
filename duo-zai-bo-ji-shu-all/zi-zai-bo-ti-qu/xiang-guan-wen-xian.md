@@ -2,7 +2,7 @@
 description: 从SCI和IEEE上找的多载波技术相关文献
 ---
 
-# 相关文献
+# 相关文献（2021-5月之前）
 
 ### A Novel Optical Fast OFDM with Reduced Channel Spacing Equal to Half of the Symbol Rate Per Carrier
 
