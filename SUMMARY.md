@@ -14,6 +14,7 @@
     * [Untitled](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/untitled-1.md)
   * [被引用文献](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/bei-yin-yong-wen-xian/README.md)
     * [2019——对重叠串扰的光学缓解](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/bei-yin-yong-wen-xian/2019-dui-zhong-die-chuan-rao-de-guang-xue-huan-jie/README.md)
+      * [8](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/bei-yin-yong-wen-xian/2019-dui-zhong-die-chuan-rao-de-guang-xue-huan-jie/8.md)
       * [18](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/bei-yin-yong-wen-xian/2019-dui-zhong-die-chuan-rao-de-guang-xue-huan-jie/18.md)
       * [19](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/bei-yin-yong-wen-xian/2019-dui-zhong-die-chuan-rao-de-guang-xue-huan-jie/19.md)
   * [参考文献](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/can-kao-wen-xian/README.md)
