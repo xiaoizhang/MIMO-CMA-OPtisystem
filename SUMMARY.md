@@ -13,6 +13,7 @@
     * [Untitled](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/untitled.md)
     * [Untitled](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/untitled-1.md)
   * [被引用文献](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/bei-yin-yong-wen-xian/README.md)
+    * [2016——减轻QPSK信号的通道干扰（PPLN中利用非线性混频）](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/bei-yin-yong-wen-xian/2016-jian-qing-qpsk-xin-hao-de-tong-dao-gan-rao-ppln-zhong-li-yong-fei-xian-xing-hun-pin.md)
     * [2018——增强QAM的性能（OSNR）的方法](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/bei-yin-yong-wen-xian/2018-zeng-qiang-qam-de-xing-neng-osnr-de-fang-fa.md)
     * [2019——高效灵活光网络的挑战和机遇](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/bei-yin-yong-wen-xian/2019-gao-xiao-ling-huo-guang-wang-luo-de-tiao-zhan-he-ji-yu.md)
     * [2019——对重叠串扰的光学缓解](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/bei-yin-yong-wen-xian/2019-dui-zhong-die-chuan-rao-de-guang-xue-huan-jie/README.md)
