@@ -1,5 +1,6 @@
 ---
-description: 参考文献在第11个有2016年的那篇
+description: >-
+  参考文献在第11个有2016年的那篇Optical_Mitigation_of_Interchannel_Crosstalk_for_Multiple_Spectrally_Overlapped_20-GBd_QPSK_16-QAM_WDM_Channels_Using_Nonlinear_Wave_Mixing
 ---
 
 # 2019——对重叠串扰的光学缓解
