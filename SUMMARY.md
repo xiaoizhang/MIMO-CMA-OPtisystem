@@ -10,6 +10,7 @@
 * [多子载波技术——文献](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/README.md)
   * [相关文献（2021-5月之前）](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian.md)
   * [相关文献（2021-8月）](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/README.md)
+    * [2017——使用MIMO串扰补偿的高密度多载波系统](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/2017-shi-yong-mimo-chuan-rao-bu-chang-de-gao-mi-du-duo-zai-bo-xi-tong.md)
     * [2020——多载波系统中的相位噪声和IQ不平衡补偿](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/untitled.md)
     * [Untitled](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/untitled-1.md)
   * [被引用文献](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/bei-yin-yong-wen-xian/README.md)
