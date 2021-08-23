@@ -10,6 +10,7 @@
 * [多子载波技术——文献](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/README.md)
   * [相关文献（2021-5月之前）](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian.md)
   * [相关文献（2021-8月）](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/README.md)
+    * [2009——载波间隔=波特率，CMA：4倍过采样+T/4间隔&gt;2倍+T/2，PDM-QPSK系统](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/2009-zai-bo-jian-ge-bo-te-lv-cma4-bei-guo-cai-yang-+t4-jian-ge-2-bei-+t2pdmqpsk-xi-tong.md)
     * [2015——非线性补偿和串扰补偿的兼容性](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/2015-fei-xian-xing-bu-chang-he-chuan-rao-bu-chang-de-jian-rong-xing.md)
     * [2017——使用MIMO串扰补偿的高密度多载波系统](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/2017-shi-yong-mimo-chuan-rao-bu-chang-de-gao-mi-du-duo-zai-bo-xi-tong.md)
     * [2020——多载波系统中的相位噪声和IQ不平衡补偿](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/untitled.md)
