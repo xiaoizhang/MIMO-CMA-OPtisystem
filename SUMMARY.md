@@ -15,7 +15,7 @@
     * [2013——间隔等于波特率的串扰消除方法](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/2013-jian-ge-deng-yu-bo-te-lv-de-chuan-rao-xiao-chu-fang-fa.md)
     * [2013——使用CMA消除ICI，56GBaud的间隔为50Ghz](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/2013-shi-yong-cma-xiao-chu-ici56gbaud-de-jian-ge-wei-50ghz.md)
     * [2015——非线性补偿和串扰补偿的兼容性](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/2015-fei-xian-xing-bu-chang-he-chuan-rao-bu-chang-de-jian-rong-xing.md)
-    * [20156——基于MIMO的双载波10GBaud的DP-16QAM](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/20156-ji-yu-mimo-de-shuang-zai-bo-10gbaud-de-dp16qam.md)
+    * [2015——基于MIMO的双载波10GBaud的DP-16QAM](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/20156-ji-yu-mimo-de-shuang-zai-bo-10gbaud-de-dp16qam.md)
     * [2016——双载波信道ICI抑制方案](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/2016-shuang-zai-bo-xin-dao-ici-yi-zhi-fang-an.md)
     * [2017——使用MIMO串扰补偿的高密度多载波系统](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/2017-shi-yong-mimo-chuan-rao-bu-chang-de-gao-mi-du-duo-zai-bo-xi-tong.md)
     * [2020——多载波系统中的相位噪声和IQ不平衡补偿](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/untitled.md)
