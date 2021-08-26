@@ -1,5 +1,7 @@
 ---
-description: 看34之前先看33
+description: >-
+  看34之前先看33  Experimental demonstration of crosstalk compensation for super
+  highdensity multicarrier PDMQPSK signal by MIMO processing
 ---
 
 # 34

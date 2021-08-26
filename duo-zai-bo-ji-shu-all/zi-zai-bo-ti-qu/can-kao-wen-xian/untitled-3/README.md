@@ -1,5 +1,7 @@
 ---
-description: 2014年——NTT Network Service Systems Laboratories工作室
+description: >-
+  2014年——NTT Network Service Systems Laboratories工作室  
+  SuperHighDensityMukti-carrierTransmissionSystembyMIMOProcessing
 ---
 
 # 33
