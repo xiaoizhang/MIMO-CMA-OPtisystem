@@ -18,7 +18,6 @@
     * [2016——双载波信道ICI抑制方案](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/2016-shuang-zai-bo-xin-dao-ici-yi-zhi-fang-an.md)
     * [2017——使用MIMO串扰补偿的高密度多载波系统](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/2017-shi-yong-mimo-chuan-rao-bu-chang-de-gao-mi-du-duo-zai-bo-xi-tong.md)
     * [2020——多载波系统中的相位噪声和IQ不平衡补偿](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/untitled.md)
-    * [Untitled](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/untitled-1.md)
   * [被引用文献](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/bei-yin-yong-wen-xian/README.md)
     * [2016——使用MIMO处理对多维调制格式的性能评估](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/bei-yin-yong-wen-xian/2016-shi-yong-mimo-chu-li-dui-duo-wei-tiao-zhi-ge-shi-de-xing-neng-ping-gu.md)
     * [2016——减轻QPSK信号的通道干扰（PPLN中利用非线性混频）](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/bei-yin-yong-wen-xian/2016-jian-qing-qpsk-xin-hao-de-tong-dao-gan-rao-ppln-zhong-li-yong-fei-xian-xing-hun-pin.md)
