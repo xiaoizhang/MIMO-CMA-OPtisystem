@@ -4,7 +4,7 @@ description: >-
   high-density multi-carrier PDM-QPSK signal by MIMO processing——2
 ---
 
-# 2014——双载波PDM-QPSK串扰补偿
+# 2014——双载波PDM-QPSK的CMA-MIMO串扰补偿
 
 两个PDM-QPSK信号可以进行子载波间隔为波特率78%的传输。
 
