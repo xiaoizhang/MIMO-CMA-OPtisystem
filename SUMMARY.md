@@ -31,6 +31,7 @@
   * [参考文献](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/can-kao-wen-xian/README.md)
     * [33](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/can-kao-wen-xian/untitled-3/README.md)
       * [引用文献](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/can-kao-wen-xian/untitled-3/yin-yong-wen-xian.md)
+      * [2014——多载波PDM-QPSK串扰补偿](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/can-kao-wen-xian/untitled-3/2014-duo-zai-bo-pdmqpsk-chuan-rao-bu-chang.md)
       * [参考文献](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/can-kao-wen-xian/untitled-3/can-kao-wen-xian/README.md)
         * [6](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/can-kao-wen-xian/untitled-3/can-kao-wen-xian/6.md)
         * [7](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/can-kao-wen-xian/untitled-3/can-kao-wen-xian/7.md)
