@@ -4,7 +4,7 @@ description: >-
   m-QAM Formats
 ---
 
-# 2016——双载波信道ICI抑制方案
+# 2016——CMA\(预收敛\)+DD-LMS双载波信道ICI抑制方案PDM-QPSK
 
 使用改进的基于DD-LMS（decision directed least mean square）的MIMO处理。对于PDM-m-PSK和PDM-m-QAM格式，可以实现偏振解复用和ICI同时缓解。
 

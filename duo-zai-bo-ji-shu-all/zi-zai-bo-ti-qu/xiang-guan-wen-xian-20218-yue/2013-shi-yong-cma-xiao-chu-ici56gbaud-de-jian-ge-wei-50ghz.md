@@ -4,7 +4,7 @@ description: >-
   superchannels with sub-Nyquist channel spacing
 ---
 
-# 2013——使用CMA消除ICI，56GBaud的间隔为50Ghz
+# 2013——使用4\*4CMA消除ICI，50/56——DP-QPSK
 
 采用CMA算法来消除欠奈奎斯特（sub-Qyquist）间隔的超载波。该方法对于56GBaudDP-QPSK信号的50Ghz间隔的ICI消除。
 
