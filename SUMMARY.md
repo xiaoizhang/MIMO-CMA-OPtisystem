@@ -15,7 +15,7 @@
     * [2013——MCE——间隔==波特率 ——N子载波](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/2013-jian-ge-deng-yu-bo-te-lv-de-chuan-rao-xiao-chu-fang-fa.md)
     * [2013——使用4\*4CMA消除ICI，50/56——N-DP-QPSK](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/2013-shi-yong-cma-xiao-chu-ici56gbaud-de-jian-ge-wei-50ghz.md)
     * [2015——非线性补偿+串扰补偿=联合。25/32——2-PDM-QPSK](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/2015-fei-xian-xing-bu-chang-he-chuan-rao-bu-chang-de-jian-rong-xing.md)
-    * [2015——4\*4FD-MIMO——8/10G——2-DP-16QAM](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/20156-ji-yu-mimo-de-shuang-zai-bo-10gbaud-de-dp16qam.md)
+    * [2015——4\*4FD-MIMO——8/10G——2-DP-16QAM&2-DP-QPSK](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/20156-ji-yu-mimo-de-shuang-zai-bo-10gbaud-de-dp16qam.md)
     * [2016——CMA\(预收敛\)+DD-LMS双载波信道ICI抑制方案2-PDM-16QAM](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/2016-shuang-zai-bo-xin-dao-ici-yi-zhi-fang-an.md)
     * [2017——使用MIMO串扰补偿——28/32——PDM-QPSK](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/2017-shi-yong-mimo-chuan-rao-bu-chang-de-gao-mi-du-duo-zai-bo-xi-tong.md)
     * [2020——多载波系统中的相位噪声和IQ不平衡补偿](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/untitled.md)
