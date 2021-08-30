@@ -4,7 +4,7 @@ description: >-
   MIMO Processing in Super-High-Density Multi-Carrier Transmission System
 ---
 
-# 2015——非线性补偿+串扰补偿=联合。25/32——PDM-QPSK
+# 2015——非线性补偿+串扰补偿=联合。25/32——2-PDM-QPSK
 
 两个子载波32GBaud信号的子载波间隔为25Ghz。非线性补偿和基于MIMO的串扰补偿实现了2-3dB的Q因子改善且互不干扰。
 
