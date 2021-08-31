@@ -53,3 +53,7 @@
     * [UDWDM](duo-zai-bo-ji-shu-all/duo-zi-zai-bo-ji-shu-ji-shu/wdm/chao-mi-ji-bo-fen-fu-yong.md)
   * [OFDM](duo-zai-bo-ji-shu-all/duo-zi-zai-bo-ji-shu-ji-shu/ofdm.md)
 
+## NEW ideas
+
+* [Untitled](new-ideas/untitled.md)
+
