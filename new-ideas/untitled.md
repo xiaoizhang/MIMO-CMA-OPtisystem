@@ -18,3 +18,9 @@ $$E^{out}_{1y}=yE^{in}_{1y}+rE^{in}_{2y}e^{j2\pi \delta ft}+uE^{in}_{1x}$$
 
 我们用CMA算法补偿偏振模串扰和ICI时的公式为：$$E_{1x}(k)=h_{11}^T.*E^{out}_{1x}+h_{22}^T*E^{out}_{2x}e^{j2\pi \delta ft}+h^{T}_{33}.*E^{out}_{1y}$$
 
+$$E_{1y}(k)=h_{11}^T.*E^{out}_{1y}+h_{22}^T*E^{out}_{2y}e^{j2\pi \delta ft}+h^{T}_{33}.*E^{out}_{1x}$$
+
+$$E_{2x}(k)=h_{11}^T.*E^{out}_{2x}+h_{22}^T*E^{out}_{1x}e^{j2\pi \delta ft}+h^{T}_{33}.*E^{out}_{2y}$$
+
+$$E_{2y}(k)=h_{11}^T.*E^{out}_{2y}+h_{22}^T*E^{out}_{1y}e^{j2\pi \delta ft}+h^{T}_{33}.*E^{out}_{2x}$$
+
