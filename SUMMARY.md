@@ -56,4 +56,5 @@
 ## NEW ideas
 
 * [4×4的CMA对串扰和偏振共同补偿](new-ideas/untitled.md)
+* [调研专利和论文](new-ideas/tiao-yan-zhuan-li-he-lun-wen.md)
 
