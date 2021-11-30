@@ -10,9 +10,9 @@ $$E^{out}_{1x}=yE^{in}_{1x}+rE^{in}_{2x}e^{j2\pi \delta ft}+uE^{in}_{1y}$$,
 
 $$E^{out}_{1y}=yE^{in}_{1y}+rE^{in}_{2y}e^{j2\pi \delta ft}+uE^{in}_{1x}$$
 
-\*\*\*\*$$E^{out}_{2x}=yE^{in}_{2x}+rE^{in}_{1x}e^{-j2\pi \delta ft}+uE^{in}_{2y}$$\*\*\*\*
+****$$E^{out}_{2x}=yE^{in}_{2x}+rE^{in}_{1x}e^{-j2\pi \delta ft}+uE^{in}_{2y}$$****
 
-\*\*\*\*$$E^{out}_{2y}=yE^{in}_{2y}+rE^{in}_{1y}e^{-j2\pi \delta ft}+uE^{in}_{2x}$$\*\*\*\*
+****$$E^{out}_{2y}=yE^{in}_{2y}+rE^{in}_{1y}e^{-j2\pi \delta ft}+uE^{in}_{2x}$$****
 
 其中：下标{1，2}代表第几个载波信号，{x，y}代表偏振，上标{in，out}代表输入和输出，前面的系数y,r和u分别代表三个信号经过信道和接收机后的衰减。其中：y在理想情况下为1.
 
@@ -23,4 +23,3 @@ $$E_{1y}(k)=h_{11}^T.*E^{out}_{1y}+h_{22}^T*E^{out}_{2y}e^{j2\pi \delta ft}+h^{T
 $$E_{2x}(k)=h_{11}^T.*E^{out}_{2x}+h_{22}^T*E^{out}_{1x}e^{j2\pi \delta ft}+h^{T}_{33}.*E^{out}_{2y}$$
 
 $$E_{2y}(k)=h_{11}^T.*E^{out}_{2y}+h_{22}^T*E^{out}_{1y}e^{j2\pi \delta ft}+h^{T}_{33}.*E^{out}_{2x}$$
-

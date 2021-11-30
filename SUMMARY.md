@@ -19,7 +19,7 @@
     * [2015——4\*4FD-MIMO——8/10G——2-DP-16QAM&2-DP-QPSK](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/20156-ji-yu-mimo-de-shuang-zai-bo-10gbaud-de-dp16qam.md)
     * [2016——CMA(预收敛)+DD-LMS双载波信道ICI抑制方案2-PDM-16QAM](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/2016-shuang-zai-bo-xin-dao-ici-yi-zhi-fang-an.md)
     * [2017——使用MIMO串扰补偿——28/32——2&4PDM-QPSK](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/2017-shi-yong-mimo-chuan-rao-bu-chang-de-gao-mi-du-duo-zai-bo-xi-tong.md)
-    * [2018-1.28Gbps的FTN-WDM系统，信号为PDM-16QAM](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/20181.28gbps-de-ftnwdm-xi-tong-xin-hao-wei-pdm16qam.md)
+    * [2018-1.28Tbps的FTN-WDM系统，信号为PDM-16QAM](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/20181.28tbps-de-ftnwdm-xi-tong-xin-hao-wei-pdm16qam.md)
     * [2019-一种新的具有FTN映射器和线性最小均方误差(LMMSE)均衡器的MFTN信号收发器。](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/2019-yi-zhong-xin-de-ju-you-ftn-ying-she-qi-he-xian-xing-zui-xiao-jun-fang-wu-cha-lmmse-jun-heng-qi.md)
     * [2019-多载波快速奈奎斯特(MFTN)可以提高频谱效率(SE)。](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/2019-duo-zai-bo-kuai-su-nai-kui-si-te-mftn-ke-yi-ti-gao-pin-pu-xiao-shuai-se.md)
     * [2019-基于MIMO译码的FTN非正交FDM系统ICI消除](duo-zai-bo-ji-shu-all/zi-zai-bo-ti-qu/xiang-guan-wen-xian-20218-yue/2019-ji-yu-mimo-yi-ma-de-ftn-fei-zheng-jiao-fdm-xi-tong-ici-xiao-chu.md)
